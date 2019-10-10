@@ -1,0 +1,10 @@
+D:\StarWars\StarWars\bin\Debug\StarWars.exe.config
+D:\StarWars\StarWars\bin\Debug\StarWars.exe
+D:\StarWars\StarWars\bin\Debug\StarWars.pdb
+D:\StarWars\StarWars\bin\Debug\Common.dll
+D:\StarWars\StarWars\bin\Debug\Newtonsoft.Json.dll
+D:\StarWars\StarWars\bin\Debug\Common.pdb
+D:\StarWars\StarWars\bin\Debug\Newtonsoft.Json.xml
+D:\StarWars\StarWars\obj\Debug\StarWars.csprojResolveAssemblyReference.cache
+D:\StarWars\StarWars\obj\Debug\StarWars.exe
+D:\StarWars\StarWars\obj\Debug\StarWars.pdb
